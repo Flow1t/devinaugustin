@@ -8,7 +8,7 @@
 Repository ini berisi tentang profile singkat anggota kelompok 3. Berikut adalah screenshotnya:
 
 1. Home Page
-   <img src="public/images/readme-images/home-page.png" alt="home page">
+   <img src="public/images/readme-images/new-home-page.png" alt="home page">
 
 2. Profile Ariel Sefrian
    <img src="public/images/readme-images/profile-ariel.png" alt="ariel sefrian">
