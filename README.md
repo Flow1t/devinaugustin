@@ -2,7 +2,7 @@
 
 ### Anggota:
 - 2440067175 - Ariel Sefrian
-- 2440094352 - Devin Augustin
+- 2440094352 - Devin Augustin [Tugas Individu]
 - 2440114373 - Rico Frenaldi Tokanto
 
 Repository ini berisi tentang profile singkat anggota kelompok 3. Berikut adalah screenshotnya:
